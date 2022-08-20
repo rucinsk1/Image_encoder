@@ -8,10 +8,7 @@ Running encoding mode:
 - <message_to_hide> is a string, for example "test message"
 - <image_name> is path to image which is already located in image_encoder/images folder. For example: test_image.png. If image exception will occur.
 
-
 ## Decoding
-
-## Encoding
 Mode should be run in image_encoder repo folder
 Running decoding mode:
 '''python -m image_encoder --mode decoding --img-name <image_name>'''
